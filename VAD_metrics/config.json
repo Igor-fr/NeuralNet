@@ -1,0 +1,7 @@
+{
+	"path_to_model": "./vad_model2_2.pth",
+	"speech_labels_path": "/Users/igorfrolkin/Downloads/ava_speech_labels_v1.csv",
+	"delimiter": ",",
+	"path_to_save_specs": "./ava_spec_3",
+	"is_save_specs": "0"
+}
